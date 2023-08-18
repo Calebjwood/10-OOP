@@ -1,0 +1,14 @@
+{
+  "name": "10-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Caleb Wood",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  }
+}
