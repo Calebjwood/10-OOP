@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": ""
   },
   "author": "Caleb Wood",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.10"
+    "inquirer": "^8.2.4"
   }
 }
